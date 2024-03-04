@@ -1,6 +1,6 @@
-# Apache Kafka Docker Compose Project
+# Real-time Data Pipeline with Apache Kafka
 
-This project provides a Docker Compose configuration for setting up an Apache Kafka cluster along with ZooKeeper using Docker.
+This project provides a scalable and fault-tolerant real-time data pipeline using Apache Kafka for ingesting, processing, and analyzing streaming data.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Before getting started, make sure you have the following installed on your machi
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/kafka-docker-compose.git
+   git clone https://github.com/yourusername/Real-time-Data-Pipeline-with-Apache-Kafka.git
    ```
 
 2. Navigate to the project directory:
