@@ -20,7 +20,7 @@ Before getting started, make sure you have the following installed on your machi
 2. Navigate to the project directory:
 
    ```bash
-   cd kafka-docker-compose
+   cd Real-time-Data-Pipeline-with-Apache-Kafka
    ```
 
 3. Start the Kafka cluster with Docker Compose:
@@ -46,6 +46,8 @@ Before getting started, make sure you have the following installed on your machi
 - ZooKeeper: `localhost:2181`
 - Kafka Broker 1: `localhost:9092`
 - Kafka Broker 2: `localhost:9093`
+
+![Kafka Docker Services](screenshots/services.png)
 
 ## Cleanup
 
