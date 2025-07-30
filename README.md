@@ -14,7 +14,7 @@ Before getting started, make sure you have the following installed on your machi
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Real-time-Data-Pipeline-with-Apache-Kafka.git
+   git clone https://github.com/stevehoober254/Real-time-Data-Pipeline-with-Apache-Kafka.git
    ```
 
 2. Navigate to the project directory:
